@@ -1,0 +1,23 @@
+[ 
+			{
+				"id" : 1,
+				"question" : "Afficher tout les films",
+				"reponses" :   ["A","B"],
+				"scriptAvant": [],
+				"scriptAvant": []
+			},
+			{
+				"id" : 2		 ,
+				"question" : " Afficher les filmes commenté par au 3 personnes",
+				"reponses" :   [],
+				"scriptAvant": [],
+				"scriptAvant": []
+			},
+			{
+				"id" : 3,   
+				"question" : " supprimer tout les films qui ont date inferieur à", 
+				"reponses" :   [],
+				"scriptAvant": [],
+				"scriptAvant": []
+			}
+]
